@@ -80,7 +80,7 @@
     });
 
 
-    const texts = ["UI UX DEVELOPER (Full Stack)", "Frontend Engineer", "UI Engineer"];
+    const texts = ["UI/UX & CMS DEVELOPER ", "Frontend Architect", "UI Engineer"];
 let textIndex = 0;
 let charIndex = 0;
 let currentText = '';
